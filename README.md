@@ -1,1 +1,1 @@
- https://github.com/Nurdinda/Algoritma-struktur-1.git
+https://github.com/Nurdinda/Algoritma-struktur-1.git
